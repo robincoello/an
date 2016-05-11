@@ -21,7 +21,7 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 
 1 2 3 4 5 6 7 8 9 0
 
-    5 6   9
+ 2   5        
 
 
 Some letters replaced by numbers
@@ -44,9 +44,8 @@ Tabla: 0.0.1
 |L      | 1 | l | 1 |
 |M      | | m | |
 |N      | | n | |
-|Ñ      | | ñ | |
 |O      | 0 | o  | 0 |
-|P      | | p | |
+|P      | 9| p | |
 |Q      | 0 | q  | 9 |
 |R      | | r | |
 |S      | 5 | s  | 5 |
