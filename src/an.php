@@ -17,9 +17,9 @@
 
 // cojemos la palabra o frase y por cada letra buscamos su remplazo 
 
-$text = "DIOMEDES DIAZ DIJO EN DIAS PASADOS QUE DURANTE SU DUELO ELLOS DURMIERON"; 
-$b = "D";
-$r = ['0','1','2','3','4','5','6','7','8','9'];
+$text = "NUNCA NIEGUES NADA NI LO DIGAS NUNCA"; 
+$b = "N";
+$r = ['0','1','2','3','4','5','6','7','8','9','!','#','$','%','&','(',')','*','+','-','/','[','\\',']','^','_'];
 echo "$text<br><br>"; 
 for ($i=0; $i<count($r); $i++) {
     $anTexto = str_replace($b,$r[$i],$text);
