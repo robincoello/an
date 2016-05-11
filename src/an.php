@@ -17,8 +17,8 @@
 
 // cojemos la palabra o frase y por cada letra buscamos su remplazo 
 
-$text = "WASHO WARAGUA WHAT"; 
-$b = "W";
+$text = "FOCAS FANFARRAS "; 
+$b = "F";
 $r = ['0','1','2','3','4','5','6','7','8','9','!','#','$','%','&','(',')','*','+','-','/','[','\\',']','^','_'];
 echo "$text<br><br>"; 
 for ($i=0; $i<count($r); $i++) {
