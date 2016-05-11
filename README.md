@@ -26,7 +26,7 @@ Some letters replaced by numbers
 ---
 |letter | replaced by   |letter | replaced by   |
 |-------|---------------|-------|---------------|
-|A      | | a | | 
+|A      | 4 | a | | 
 |B      | 8, 3|b | |
 |C      | | c | |
 |D      | | d | |
