@@ -19,16 +19,20 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 
 ###numbers
 
-0 1 2 3 4 5 6 7 8 9
+1 2 3 4 5 6 7 8 9 0
+
+    5 6   9
+
 
 Some letters replaced by numbers
 
+Tabla: 0.0.1
 ---
 |letter | replaced by   |letter | replaced by   |
 |-------|---------------|-------|---------------|
 |A      | 4 | a | | 
-|B      | 8, 3|b | |
-|C      | | c | |
+|B      | 8|b | |
+|C      | #| c | |
 |D      | | d | |
 |E      | | e | |
 |F      | | f | |
@@ -53,3 +57,4 @@ Some letters replaced by numbers
 |X      | | x | |
 |Y      | | y | |
 |Z      | 2 | z | 2 |
+
