@@ -31,24 +31,24 @@ Some letters replaced by numbers
 |D      | | d | |
 |E      | | e | |
 |F      | | f | |
-|G      | | g | |
+|G      | | g | 9 |
 |H      | | h | |
 |I      | 1 | i | 1 |
 |J      | | j | |
 |K      | | k | |
-|L      | 1 |l  | |
+|L      | 1 | l | 1 |
 |M      | | m | |
 |N      | | n | |
 |Ñ      | | ñ | |
 |O      | 0 | o  | 0 |
 |P      | | p | |
-|Q      | 0 | q  | |
+|Q      | 0 | q  | 9 |
 |R      | | r | |
-|S      | 5 | s  | |
+|S      | 5 | s  | 5 |
 |T      | 7 | t | |
 |U      | | u | |
 |V      | | v | |
 |W      | | w | |
 |X      | | x | |
 |Y      | | y | |
-|Z      | | z | |
+|Z      | 2 | z | 2 |
