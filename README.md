@@ -24,7 +24,39 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 
 Some letters replaced by numbers
 
-Tabla: 0.0.1
+Table: 0.0.1
+---
+|letter | replaced by   |
+|-------|---------------|
+|A      | 4 |
+|B      | 8|
+|C      | #|
+|D      | )|
+|E      | 3|
+|F      | 7|
+|G      | 6|
+|H      | #|
+|I      | ! 
+|J      | ]|
+|K      |  |
+|L      | 1|
+|M      | | 
+|N      | | 
+|O      | 0|
+|P      | 9|
+|Q      | 0|
+|R      | | 
+|S      | 5|
+|T      | 7|
+|U      | | 
+|V      | | 
+|W      | | 
+|X      | | 
+|Y      | | 
+|Z      | 2|
+
+
+Table: 0.0.2
 ---
 |letter | replaced by   |letter | replaced by   |
 |-------|---------------|-------|---------------|
@@ -54,4 +86,6 @@ Tabla: 0.0.1
 |X      | | x | |
 |Y      | | y | |
 |Z      | 2 | z | 2 |
+
+
 
