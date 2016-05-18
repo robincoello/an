@@ -1,7 +1,8 @@
 #an
-Alpha numeric
+Alpha numeric / Alfa numerico
 
 Change text so that only a human can read
+Cambia un texto donde solo un humano puede leerlo
 
 Ex: 
 
@@ -11,22 +12,23 @@ R081N50N
 
 
 
-###alphabet
+###alphabet / Alfabeto
 
 A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z 
 
 a b c d e f g h i j k l m n ñ o p q r s t u v w x y z 
 
-###numbers
+###numbers / numeros
 
 1 2 3 4 5 6 7 8 9 0    
 
 
 Some letters replaced by numbers
+Algunas letras son remplazadas por numeros o signos
 
-Table: 0.0.1
+Table/tabla: 0.0.1
 ---
-|letter | replaced by   |
+|letter/letra | replaced by/remplzado por   |
 |-------|---------------|
 |A      | 4 |
 |B      | 8|
@@ -58,7 +60,7 @@ Table: 0.0.1
 
 Table: 0.0.2
 ---
-|letter | replaced by   |letter | replaced by   |
+|letter/letra | replaced by/remplzado por   |letter/letra | replaced by/remplazado por   |
 |-------|---------------|-------|---------------|
 |A      | 4 | a | | 
 |B      | 8|b | |
