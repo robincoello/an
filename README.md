@@ -2,6 +2,7 @@
 Alpha numeric / Alfa numerico
 
 Change text so that only a human can read
+
 Cambia un texto donde solo un humano puede leerlo
 
 Ex: 
@@ -24,6 +25,7 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 
 
 Some letters replaced by numbers
+
 Algunas letras son remplazadas por numeros o signos
 
 Table/tabla: 0.0.1
