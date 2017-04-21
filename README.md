@@ -25,6 +25,7 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 Algunas letras son remplazadas por numeros o signos
 
 Tabla: 1
+Se usa solo para las MAYUSCULAS
 ---
 |Letra | Remplzado por   |
 |-------|---------------|
@@ -57,6 +58,7 @@ Tabla: 1
 
 
 Tabla: 2
+Se usa para las mayusculas y minusculas
 ---
 |Letra | remplzado por   |letra | remplazado por   |
 |-------|---------------|-------|---------------|
