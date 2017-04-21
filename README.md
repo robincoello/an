@@ -57,7 +57,10 @@ Se usa solo para las MAYUSCULAS
 |X      |               | 
 |Y      |               | 
 |Z      | 2             |
--------------------------
+-
+--
+---
+----
 
 
 Tabla: 2
