@@ -31,42 +31,43 @@ Se usa solo para las MAYUSCULAS
 -------------------------
 |Letra | Remplzado por  |
 |-------|---------------|
-|A      | 4 |
-|B      | 8|
-|C      |  |
-|D      |  |
-|E      | 3|
-|F      |  |
-|G      | 6|
-|H      | #|
-|I      | !| 
-|J      | ]|
-|K      |  |
-|L      | 1|
-|M      | | 
-|N      | | 
-|O      | 0|
-|P      |  |
-|Q      | 9|
-|R      | | 
-|S      | 5|
-|T      | 7|
-|U      | | 
-|V      | | 
-|W      | | 
-|X      | | 
-|Y      | | 
-|Z      | 2|
+|A      | 4             |
+|B      | 8             |
+|C      |               |
+|D      |               |
+|E      | 3             |
+|F      |               |
+|G      | 6             |
+|H      | #             |
+|I      | !             | 
+|J      | ]             |
+|K      |               |
+|L      | 1             |
+|M      |               | 
+|N      |               | 
+|O      | 0             |
+|P      |               |
+|Q      | 9             |
+|R      |               | 
+|S      | 5             |
+|T      | 7             |
+|U      |               | 
+|V      |               | 
+|W      |               | 
+|X      |               | 
+|Y      |               | 
+|Z      | 2             |
+-------------------------
 
 
 Tabla: 2
 
 Se usa para las mayusculas y minusculas
----
-|Letra | remplzado por   |letra | remplazado por   |
+------------------------------------------------
+|Letra | remplzado por  | letra | remplazado por|
 |-------|---------------|-------|---------------|
-|A      | 4 | a | | 
-|B      | 8 | b | 6|
+|A      | 4             | a     |               | 
+|B      | 8             | b     | 6             |
 |C      |   | c | |
 |D      |   | d | |
 |E      | 3 | e | |
