@@ -28,8 +28,8 @@ Tabla: 1
 
 Se usa solo para las MAYUSCULAS
 
----
-|Letra | Remplzado por   |
+-------------------------
+|Letra | Remplzado por  |
 |-------|---------------|
 |A      | 4 |
 |B      | 8|
