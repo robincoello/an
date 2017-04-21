@@ -24,7 +24,7 @@ a b c d e f g h i j k l m n ñ o p q r s t u v w x y z
 
 Algunas letras son remplazadas por numeros o signos
 
-Tabla: 0.0.1
+Tabla: 1
 ---
 |Letra | Remplzado por   |
 |-------|---------------|
@@ -56,7 +56,7 @@ Tabla: 0.0.1
 |Z      | 2|
 
 
-Tabla: 0.0.2
+Tabla: 2
 ---
 |Letra | remplzado por   |letra | remplazado por   |
 |-------|---------------|-------|---------------|
